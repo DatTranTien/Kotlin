@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SingletonPattern</string>
+    <string name="action_start_new_activity">Start New Activity</string>
+    <string name="action_submit">Submit</string>
+    <string name="hint_user_id">Enter user id</string>
+    <string name="hint_full_name">Enter full name</string>
+    <string name="hint_email">Enter email</string>
+</resources>
